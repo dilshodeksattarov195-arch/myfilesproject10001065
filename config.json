@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filteruncrypt",
+        "uuid": 10667040,
+        "checksum": "ojbk3v"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
